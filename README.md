@@ -1,2 +1,6 @@
-# sparata-instagram-clone
+# sparta-instagram-clone
+
+instagram Clone Using HTML,CSS,JS
+
+
  
